@@ -52,7 +52,7 @@ This project comes with some pre-configured debuggers (They can be installed usi
 - Open the debug panel
   - from the command palette `Debugger: Open`
 
-- Install a debug adapter by running: ```Debugger: Install adapter``` from the command palette.
+- Install a debug adapter by running: ```Debugger: Install adapters``` from the command palette.
 
 - Add a configuration ```Debugger: Add Configuration``` from the command palette (or add one manually, see below).
   - Configurations are added to `debugger_configurations` to your sublime-project and use the same configuration format as Visual Studio Code
